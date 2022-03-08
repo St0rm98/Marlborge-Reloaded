@@ -2,7 +2,7 @@
 #include <WinSock2.h>
 #include <WS2tcpip.h>
 
-#define LHOST "127.0.0.1" // Don't change this
+#define LHOST "0.0.0.0" // Don't change this
 #define LPORT 3000 // Set to the port you set on the client
 #define MAXCONN 100000 // Set the max number of connections
 
