@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d980d261-7f89-4999-a231-7ae826eb2324}</ProjectGuid>
-    <RootNamespace>MarlborgeClient</RootNamespace>
+    <ProjectGuid>{613238c6-cbef-4685-b14e-8eec6ed2c207}</ProjectGuid>
+    <RootNamespace>MarlborgeServer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
